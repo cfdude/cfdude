@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Rob;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <!--<p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>-->
 </div>
 
 <div align="left">
     <h2>🚀 About Me</h2>
-      <p><img src="learning.gif" alt="You are never done learning" height="50%" width="50%" /></p>
+      <p><img src="learning.gif" alt="You are never done learning" style="max-width=40%" /></p>
     <p>Visionary software engineering leader with cross industry experience with a proven track record of aligning technical roadmaps with business objectives to deliver world-class gaming experiences. Expert in driving full product life cycles, from ideation and design to development, cloud migrations (AWS to GCP), and AI/ML integration to enhance gameplay, system efficiency, and real-time player engagement. Skilled at building and directing high-performing, scalable teams while optimizing multimillion-dollar budgets. Adept at fostering cross-functional relationships, ensuring seamless product launches, and setting new industry benchmarks. Known for architecting frameworks that align core services with business strategies, enabling the successful delivery of innovative in-game features across global platforms.</p>
 
 <p>
