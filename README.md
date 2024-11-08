@@ -108,9 +108,7 @@ Areas of Expertise:<br>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cfdude&theme=github_dark" alt="Rob's GitHub Stats"/></td>
-        <!-- <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=cfdude&theme=merko" alt="Rob's Contribution Streak"/></td> -->
-       <td><img style="border: none;" src="https://camo.githubusercontent.com/01f2897ccf7ea56395fdd9814c41eba0f86923d8d456efc39ee5ad0770e87a79/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d636664756465267468656d653d6d65726b6f" alt="Rob's Contribution Streak"/></td>
-        
+        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=cfdude&theme=merko" alt="Rob's Contribution Streak"/></td>
     </tr>
  </table>
 
