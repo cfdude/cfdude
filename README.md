@@ -38,9 +38,9 @@ Areas of Expertise:<br>
 </div>
 
 <div align="left">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<h2 align="left" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn<!--, or explore more about my projects and interests through my Linktree.--> Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development, AI and technology. Let's innovate together! </p>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/robsherman">
     <img src="https://img.shields.io/badge/RobSherman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -62,7 +62,7 @@ Areas of Expertise:<br>
 
 <h2 align="left" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -73,7 +73,7 @@ Areas of Expertise:<br>
 
 <h2 align="left" class="section-heading">☁️ Cloud Technologies</h2>
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
@@ -85,7 +85,7 @@ Areas of Expertise:<br>
 
 <h2 align="left" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <!--<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>-->
@@ -110,7 +110,7 @@ Areas of Expertise:<br>
 </div>
 
 <div align="left">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<h2 align="left" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
