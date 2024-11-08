@@ -44,20 +44,13 @@ Areas of Expertise:<br>
   <a href="https://www.linkedin.com/in/robsherman">
     <img src="https://img.shields.io/badge/RobSherman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/zanepearton">
+  <!--<a href="https://linktr.ee/zanepearton">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
-  </a>
+  </a>-->
 <a href="https://github.com/cfdude/cfdude" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=cfdude&style=for-the-badge" alt="Profile views" />
-</div>
-
-<div align="left">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/cfdude/cfdude/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/cfdude/cfdude/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="left" class="section-heading">💻 Programming Languages</h2>
