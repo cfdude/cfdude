@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="left">
     <h2>🚀 About Me</h2>
-      <p><img src="learning.gif" alt="You are never done learning" /></p>
+     <p><img src="learning.gif" alt="You are never done learning" width="288" style="max-width: 288px; height: auto;" /></p>
     <p>Visionary software engineering leader with cross industry experience with a proven track record of aligning technical roadmaps with business objectives to deliver world-class gaming experiences. Expert in driving full product life cycles, from ideation and design to development, cloud migrations (AWS to GCP), and AI/ML integration to enhance gameplay, system efficiency, and real-time player engagement. Skilled at building and directing high-performing, scalable teams while optimizing multimillion-dollar budgets. Adept at fostering cross-functional relationships, ensuring seamless product launches, and setting new industry benchmarks. Known for architecting frameworks that align core services with business strategies, enabling the successful delivery of innovative in-game features across global platforms.</p>
 
 <p>
