@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <div align="left">
     <h2>🚀 About Me</h2>
-      <p><img src="learning.gif" alt="You are never done learning" /></p>
-    <p>Visionary software engineering leader with cross industry experience with a proven track record of aligning technical roadmaps with business objectives to deliver world-class gaming experiences. Expert in driving full product life cycles, from ideation and design to development, cloud migrations (AWS to GCP), and AI/ML integration to enhance gameplay, system efficiency, and real-time player engagement. Skilled at building and directing high-performing, scalable teams while optimizing multimillion-dollar budgets. Adept at fostering cross-functional relationships, ensuring seamless product launches, and setting new industry benchmarks. Known for architecting frameworks that align core services with business strategies, enabling the successful delivery of innovative in-game features across global platforms.</p>
+     <p><img src="learning.gif" alt="You are never done learning" width="288" style="max-width: 288px; height: auto;" /></p>
+    <p>Experienced software engineering leader with more than 20 years of cross industry experience, and a proven track record of aligning technical roadmaps with business objectives to deliver world-class gaming experiences. Expert in driving full product life cycles, from ideation and design to development, cloud migrations (AWS to GCP), and AI/ML integration to enhance gameplay, system efficiency, and real-time player engagement. Skilled at building and directing high-performing, scalable teams while optimizing multimillion-dollar budgets. Adept at fostering cross-functional relationships, ensuring seamless product launches, and setting new industry benchmarks. Known for architecting frameworks that align core services with business strategies, enabling the successful delivery of innovative in-game features across global platforms.</p>
 
 <p>
 Areas of Expertise:<br>
@@ -155,7 +155,7 @@ Areas of Expertise:<br>
   <!--<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>-->
   
 </div>
-
+<!--
 <div align="left">
 <h2 align="left" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
@@ -165,7 +165,8 @@ Areas of Expertise:<br>
         <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=cfdude&theme=merko" alt="Rob's Contribution Streak"/></td>
     </tr>
  </table>
-
+ -->
+<!--
  <table align="left" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cfdude&theme=github_dark" alt="Rob's GitHub Stats"/></td>
@@ -175,4 +176,4 @@ Areas of Expertise:<br>
     </tr>
  </table>
 </div>
-
+-->
