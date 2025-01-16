@@ -152,10 +152,8 @@ Areas of Expertise:<br>
 <p>I've been doing some implementations of ML for recomendation engines and am actively working on AI chatbots</p>
 <div align="left">
   <img src="https://img.shields.io/badge/DataStax-313131?style=for-the-badge&logo=datastax&logoColor=white" alt="DataStax"/>
-  <!--<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>-->
-  
 </div>
-<!--
+
 <div align="left">
 <h2 align="left" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
@@ -165,8 +163,8 @@ Areas of Expertise:<br>
         <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=cfdude&theme=merko" alt="Rob's Contribution Streak"/></td>
     </tr>
  </table>
- -->
-<!--
+ 
+
  <table align="left" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cfdude&theme=github_dark" alt="Rob's GitHub Stats"/></td>
@@ -176,4 +174,4 @@ Areas of Expertise:<br>
     </tr>
  </table>
 </div>
--->
+
